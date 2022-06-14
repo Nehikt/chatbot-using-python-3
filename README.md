@@ -1,1 +1,2 @@
-# chatbot-using-python-3
+# chatbot-using-python
+Its a text type chatbot
